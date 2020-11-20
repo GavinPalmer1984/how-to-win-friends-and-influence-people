@@ -55,7 +55,7 @@ Gavin's notes on How To Win Friends &amp; Influence People by Dale Carnegie
 
 ## Give honest and sincere appreciation.
 ## Arouse in the other person an eager want.
-- (Gavin) I don't know how to do this yet.
+- (Gavin) I am not good at this.  I trying to learn how to do this with my children.
 
 ## Become genuinely interested in other people.
 ## Smile
@@ -75,11 +75,11 @@ Gavin's notes on How To Win Friends &amp; Influence People by Dale Carnegie
 ## Appeal to the nobler motives.
 ## Dramatize your ideas.
 ## Throw down a challenge.
-- (Gavin) I don't know what this means.
+- (Gavin) Track metrics and this can encourage people to change.  I am reminded of Goodhart's Law which Marlyn Strathern summarized as "When a measure becomes a target, it ceases to be a good measure."  In the software world we might measure number of commits or lines of code.  We might measure the number of hotfixes.
 
 ## Begin with praise and honest appreciation
 ## Call attention to people's mistakes indirectly.
-- (Gavin) Perhaps I can do this with non violent communication techniques.  Communicat observations and feelings.  Ask questions.
+- (Gavin) Perhaps I can do this with non violent communication techniques.  Communicate observations and feelings.  Ask questions.
 
 ## Talk about your own mistakes before criticizing the other person.
 ## Ask questions instead of giving direct orders.
@@ -88,4 +88,10 @@ Gavin's notes on How To Win Friends &amp; Influence People by Dale Carnegie
 ## Give the other person a fine reputation to live up to.
 ## Use encouragement.  Make the fault seem easy to correct.
 ## Make the other person happy about doing the thing you suggest.
-- (Gavin) I don't know how to do this yet.
+
+1. Be sincere.  Do not promise anything that you cannot deliver.  Forget about the benefits to yourself and concentrate on the benefits to the other person.
+2. Know exactly what it is you want the other person to do.
+3. Be empathetic.  Ask yourself what it is the other person really wants.
+4. Consider the benefits that person will receive from doing what you suggest.
+5. Match those benefits to the other person's wants.
+6. When you make your request, put it in a form that will convey to the other person the idea that he personally will benefit.
